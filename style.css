@@ -1,0 +1,95 @@
+html{
+
+}
+.header{
+	height:200px;
+	text-align:left;
+	font-family:georgia;
+	font-size:72px;
+	background-image:url(foto/3.jpg);
+}
+
+.content1{
+	background-image:url(foto/bg.jpg);
+	font-size:25;
+	text-align:justify;
+	height: 500px;
+	width:1312px;
+	padding:10px;
+}
+
+.content2{
+	background-color:green;
+	font-size:25;
+	text-align:justify;
+	float:left;
+	width:1092px;
+	height:auto;
+	
+}
+.content3{
+	background-image:url(foto/bg.jpg);
+	font-size:35;
+	text-align:justify;
+	width:auto;
+	height:auto;
+
+	
+}
+.sidebar {
+ float: left;
+ width: 200px;
+ height:1000px;
+ background-color:gold;
+ padding:20px;
+}
+
+.footer{
+	background-color:blue;
+	height:30px;
+	text-align:center;
+	font-size:22;
+}
+
+.navigation{
+float:center;
+width:100%;
+color:white;
+background:blue;
+font-size:20px;
+text-align:left;
+position:relative;
+}
+
+
+.navigation a{
+margin:10px;
+margin-top:10px;
+margin-bottom:10px;
+color:#eeeeee;
+text-decoration:none;
+}
+.profil{
+font-family:algerian;
+text-align:left;
+}
+.kop{
+font-family:Times new roman;
+font-size:25;
+}
+.judul{
+font-size:50;
+padding:20px;
+text-align:center;
+}
+.form{
+background: #CCCCCC;
+font-family: tahoma;
+width: 200px;
+height: auto;
+margin:auto;
+margin-top:150px;
+border-radius:5px;
+box-shadow: 0px 0px 5px #000;
+border:1px solid #DBDCD6;
+}
